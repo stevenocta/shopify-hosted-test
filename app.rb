@@ -31,7 +31,7 @@ class OffsiteGatewaySim < Sinatra::Base
   end
 
   def sign(fields, key=@key)
-    OpenSSL::HMAC.hexdigest(fields.sort.join, key, Digest::SHA256)
+    OpenSSL::HMAC.hexdigest(OpenSSL::Digest.new('sha256'), key, fields.sort.join)
   end
 
   def signature_valid?
