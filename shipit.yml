@@ -3,4 +3,4 @@ dependencies:
 
 deploy:
   override:
-    - push-to-heroku offsite-gateway-sim
+    - push-to-heroku shopify-hosted-test
