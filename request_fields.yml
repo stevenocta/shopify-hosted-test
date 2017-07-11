@@ -1,0 +1,140 @@
+-
+  key: x_account_id
+  name: x_account_id
+  placeholder: "Z9s7Yt0Txsqbbx"
+-
+  key: x_amount
+  name: x_amount
+  placeholder: "89.99"
+-
+  key: x_currency
+  name: x_currency
+  placeholder: "USD"
+-
+  key: x_reference
+  name: x_reference
+  placeholder: "19783"
+-
+  key: x_shop_country
+  name: x_shop_country
+  placeholder: "US"
+-
+  key: x_shop_name
+  name: x_shop_name
+  placeholder: "Widgets Inc"
+-
+  key: x_description
+  name: x_description
+  placeholder: "Order"
+-
+  key: x_invoice
+  name: x_invoice
+  placeholder: "#123"
+-
+  key: x_test
+  name: x_test
+  placeholder: "true"
+-
+  key: x_customer_first_name
+  name: x_customer_first_name
+  placeholder: "Boris"
+-
+  key: x_customer_last_name
+  name: x_customer_last_name
+  placeholder: "Slobodin"
+-
+  key: x_customer_email
+  name: x_customer_email
+  placeholder: "boris.slobodin@example.com"
+-
+  key: x_customer_phone
+  name: x_customer_phone
+  placeholder: "6139876543"
+-
+  key: x_customer_shipping_city
+  name: x_customer_shipping_city
+  placeholder: "Toronto"
+-
+  key: x_customer_shipping_company
+  name: x_customer_shipping_company
+  placeholder: "Shopify Toronto"
+-
+  key: x_customer_shipping_first_name
+  name: x_customer_shipping_first_name
+  placeholder: "Boris"
+-
+  key: x_customer_shipping_last_name
+  name: x_customer_shipping_last_name
+  placeholder: "Slobodin"
+-
+  key: x_customer_shipping_address1
+  name: x_customer_shipping_address1
+  placeholder: "241 Spadina Ave"
+-
+  key: x_customer_shipping_address2
+  name: x_customer_shipping_address2
+  placeholder: "Suite 200"
+-
+  key: x_customer_shipping_state
+  name: x_customer_shipping_state
+  placeholder: "true"
+-
+  key: x_customer_shipping_zip
+  name: x_customer_shipping_zip
+  placeholder: "M5T 3A8"
+-
+  key: x_customer_shipping_country
+  name: x_customer_shipping_country
+  placeholder: "CA"
+-
+  key: x_customer_shipping_phone
+  name: x_customer_shipping_phone
+  placeholder: "4161234567"
+-
+  key: x_customer_billing_city
+  name: x_customer_billing_city
+  placeholder: "Toronto"
+-
+  key: x_customer_billing_company
+  name: x_customer_billing_company
+  placeholder: "Shopify Toronto"
+-
+  key: x_customer_billing_address1
+  name: x_customer_billing_address
+  placeholder: "241 Spadina Ave"
+-
+  key: x_customer_billing_address2
+  name: x_customer_billing_address2
+  placeholder: "Suite 200"
+-
+  key: x_customer_billing_state
+  name: x_customer_billing_state
+  placeholder: "ON"
+-
+  key: x_customer_billing_zip
+  name: x_customer_billing_zip
+  placeholder: "M5T 3A8"
+-
+  key: x_customer_billing_country
+  name: x_customer_billing_country
+  placeholder: "CA"
+-
+  key: x_customer_billing_phone
+  name: x_customer_billing_phone
+  placeholder: "4161234567"
+-
+  key: x_url_callback
+  name: x_url_callback
+  placeholder: "https://myshopify.io/ping/1"
+-
+  key: x_url_cancel
+  name: x_url_cancel
+  placeholder: "https://myshopify.io"
+-
+  key: x_url_complete
+  name: x_url_complete
+  placeholder: "https://myshopify.io/orders/1/done"
+-
+  key: secret_key
+  name: secret_key
+  placeholder: "iU44RWxeik"
