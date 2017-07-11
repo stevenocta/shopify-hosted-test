@@ -99,7 +99,8 @@ class OffsiteGatewaySim < Sinatra::Base
     end
     payload['x_signature'] = sign(payload)
     result = {timestamp: ts}
-    redirect_url = Addressable::URI.parse(fields['x_url_complete'])
+      payload['x_message'] = "This is a custom error message AAAA."
+    redirect_url = Addressable::URI.parse(fields['x_url_cancel'])
     redirect_url.query_values = payload
     if request.params['fire_callback'] == 'true'
       callback_url = fields['x_url_callback']
